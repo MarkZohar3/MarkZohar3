@@ -10,7 +10,7 @@
 | Job Position           | Company                | Field                         | Work Period       |
 | ---------------------- | ---------------        | ----------------------------- | ----------------- |
 | Full-stack Developer   | Nista                  | Climate Tech / Energy Sector  | 2024-05 — 2025-05 |
-| Backend Developer      | Ineor                  | Gaming                        | 2022-10 — 2023-09 |
+| Backend Developer      | Ineor (Greentube)      | Gaming                        | 2022-10 — 2023-09 |
 | BI Developer           | NXP Semiconductors     | Business Intelligence         | 2020-10 — 2022-09 |
 
 
