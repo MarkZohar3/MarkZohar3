@@ -38,6 +38,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/mark-zohar/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://markzohar.com" target="_blank"><img  src="https://raw.githubusercontent.com/MarkZohar3/MarkZohar3/refs/heads/main/website-icon.png" alt="Website" height="30" /></a>
+  <a href="https://leetcode.com/markzohar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="markzohar" height="30" width="40" /></a>
 </p>
 
 
